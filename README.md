@@ -1,6 +1,14 @@
-Screeshot of the station created in ABB Robotstudio. 
-All  path and target are not visible to make the immage cleaner.
-<img width="1120" height="700" alt="station" src="https://github.com/user-attachments/assets/c31aa2e7-887a-4e80-9d56-3084b2101d73" />
+# Screenshot of the station created in ABB RobotStudio
 
-<img width="676" height="353" alt="logicStation" src="https://github.com/user-attachments/assets/f3c6e387-04d7-4b03-94df-aeed1fb39bea" />
-To simulate the station download the pack&go file and import it in ABBRobotstudio.
+In the simulation, an RB-4400 robot performs pick-and-place operations, respecting the working times of the different machines.
+
+To reduce the cycle time of the cell, a gripper change station has been implemented.
+
+Both the grippers and the gripper change station were designed in SolidWorks to ensure realistic dynamic properties during the simulation and to obtain more accurate results for the robot joints’ acceleration and velocity.
+
+All paths and targets are hidden to make the image clearer.
+
+To simulate the station, download the Pack&Go file and import it into ABB RobotStudio.
+
+![station](https://github.com/user-attachments/assets/c31aa2e7-887a-4e80-9d56-3084b2101d73)
+![logicStation](https://github.com/user-attachments/assets/f3c6e387-04d7-4b03-94df-aeed1fb39bea)
